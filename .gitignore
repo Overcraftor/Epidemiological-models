@@ -2,4 +2,4 @@
 .jupyter/
 .ipynb_checkpoints/
 .git/
-.jupyter_ystore.db/
+.jupyter_ystore.db

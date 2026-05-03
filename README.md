@@ -30,8 +30,6 @@ source .venv/bin/activate
 
 # 4. Install JupyterLab and the Scilab kernel
 pip install -r requirements.txt
-# Or 
-pip install jupyterlab scilab_kernel
 
 # 5. Update the kernel spec for Scilab
 python -m scilab_kernel install --user
